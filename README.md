@@ -1,6 +1,6 @@
 # Infrastructure Alert Intelligence Dashboard
 
-![Dashboard Preview](https://via.placeholder.com/800x400?text=Infrastructure+Alert+Intelligence+Dashboard)
+![image](https://github.com/user-attachments/assets/d848e862-0ab3-44ec-b7f1-9e85cb945186)
 
 ## Overview
 
